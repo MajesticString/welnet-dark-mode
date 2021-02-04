@@ -1,4 +1,4 @@
-function style() {
+export function style() {
     var styles = `
     li.divider-vertical.hidden-xs {
         border-right: 0px solid #000
