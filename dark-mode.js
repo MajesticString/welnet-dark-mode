@@ -1,4 +1,4 @@
-export function style() {
+function style() {
     var styles = `
     li.divider-vertical.hidden-xs {
         border-right: 0px solid #000
@@ -94,3 +94,4 @@ export function style() {
     styleSheet.innerText = styles
     document.head.appendChild(styleSheet)
 }
+export style;
