@@ -1,4 +1,5 @@
-function style() {
+(function() {
+
     var styles = `
     li.divider-vertical.hidden-xs {
         border-right: 0px solid #000
@@ -93,5 +94,6 @@ function style() {
     styleSheet.type = "text/css"
     styleSheet.innerText = styles
     document.head.appendChild(styleSheet)
-}
-export style;
+
+
+})();
