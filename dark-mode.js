@@ -5,6 +5,8 @@
         border-right: 0px solid #000
     } .year-item p.year-section-title {
         background-color: #0095cd;
+    } .blue-bar-tile {
+        box-shadow: none;
     }
     
     li {
