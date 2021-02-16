@@ -8,7 +8,7 @@
     }
     
     li {
-        color: #cdced0;
+        color: #fff;
     }
     
     #welnet_interior_right_title_header {
@@ -67,7 +67,7 @@
     }
     
     .main_title {
-        color: #cdced0;
+        color: #fff;
     }
     
     .welnet_interior_right_crumbs a {
