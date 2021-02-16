@@ -3,6 +3,8 @@
     var styles = `
     li.divider-vertical.hidden-xs {
         border-right: 0px solid #000
+    } .year-item p.year-section-title {
+        background-color: #0095cd;
     }
     
     li {
